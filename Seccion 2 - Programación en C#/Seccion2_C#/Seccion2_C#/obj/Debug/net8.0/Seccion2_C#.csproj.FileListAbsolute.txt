@@ -1,0 +1,15 @@
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\bin\Debug\net8.0\Seccion2_C#.exe
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\bin\Debug\net8.0\Seccion2_C#.deps.json
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\bin\Debug\net8.0\Seccion2_C#.runtimeconfig.json
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\bin\Debug\net8.0\Seccion2_C#.dll
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\bin\Debug\net8.0\Seccion2_C#.pdb
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\Seccion2_C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\Seccion2_C#.AssemblyInfoInputs.cache
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\Seccion2_C#.AssemblyInfo.cs
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\Seccion2_C#.csproj.CoreCompileInputs.cache
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\Seccion2_C#.sourcelink.json
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\Seccion2_C#.dll
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\refint\Seccion2_C#.dll
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\Seccion2_C#.pdb
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\Seccion2_C#.genruntimeconfig.cache
+F:\Trabajo\Tecniscan\Tecniscan_Prueba\Seccion 2 - Programación en C#\Seccion2_C#\Seccion2_C#\obj\Debug\net8.0\ref\Seccion2_C#.dll
