@@ -57,3 +57,11 @@ Este proyecto contiene varias funciones escritas en C# para realizar diferentes 
 
 1. Sigue las instrucciones en la consola para ingresar los números y cadenas requeridas para las diferentes funciones.
 2. El programa solicitará los datos uno por uno y mostrará los resultados en la consola.
+
+
+# Prueba 2 - Reservas de Hotel
+
+Nota: En el codigo de C#, es necesario especificar la base de tados que se va usar asi como tambien los datos de ingreso y el servidor.
+La linea 8 del codigo es la que se debe modificar con los datos requeridos.
+
+EJ: string connectionString = "Server=#######;Database=#######;User Id=#######;Password=#######;";
