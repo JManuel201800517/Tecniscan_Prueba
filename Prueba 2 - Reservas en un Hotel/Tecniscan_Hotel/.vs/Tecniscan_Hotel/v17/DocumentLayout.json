@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Trabajo\\Tecniscan\\Tecniscan_Prueba\\Prueba 2 - Reservas en un Hotel\\Tecniscan_Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43EC013D-FE37-44D4-A5C9-46E6084A56A4}|Tecniscan_Hotel\\Tecniscan_Hotel.csproj|f:\\trabajo\\tecniscan\\tecniscan_prueba\\prueba 2 - reservas en un hotel\\tecniscan_hotel\\tecniscan_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EC013D-FE37-44D4-A5C9-46E6084A56A4}|Tecniscan_Hotel\\Tecniscan_Hotel.csproj|solutionrelative:tecniscan_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Trabajo\\Tecniscan\\Tecniscan_Prueba\\Prueba 2 - Reservas en un Hotel\\Tecniscan_Hotel\\Tecniscan_Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Tecniscan_Hotel\\Program.cs",
+              "ToolTip": "F:\\Trabajo\\Tecniscan\\Tecniscan_Prueba\\Prueba 2 - Reservas en un Hotel\\Tecniscan_Hotel\\Tecniscan_Hotel\\Program.cs",
+              "RelativeToolTip": "Tecniscan_Hotel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:19:40.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

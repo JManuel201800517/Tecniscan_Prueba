@@ -48,6 +48,12 @@ namespace TareasCSharp
                 Console.WriteLine("No es un Anagrama");
             }
             Console.WriteLine("\n");
+
+            Console.WriteLine("FUNCION PARA CALCULAR EL Doble DE UN NUMERO");
+            Console.Write("Ingrese un número: ");
+            int numeroSuma = int.Parse(Console.ReadLine());
+            Console.WriteLine(SumaDeUnNumero(numeroSuma));
+            Console.WriteLine("\n");
         }
 
         // Función que compara tres números y devuelve el mayor, indicando si hay números iguales
@@ -84,6 +90,11 @@ namespace TareasCSharp
             Array.Sort(arr2);
 
             return new string(arr1) == new string(arr2);
+        }
+
+        static int SumaDeUnNumero(int numero)
+        {
+            return numero + numero;
         }
     }
 }
